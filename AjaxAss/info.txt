@@ -1,0 +1,8 @@
+<b> XMLHttpRequest Object </b>
+
+<b>AJAX:</b>
+<br><br>
+Create an XMLHttpRequest object <br>
+Define a callback function <br>
+Open the XMLHttpRequest object <br>
+Send a Request to a server <br>
